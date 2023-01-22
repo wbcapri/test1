@@ -1,0 +1,1 @@
+perl -lne 'print pack("H*", $_);'
